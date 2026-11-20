@@ -1,0 +1,42 @@
+{% load static %}
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="ЧИСТО — химчистка и прачечная. Бережный уход за одеждой и текстилем.">
+  <title>{% block title %}ЧИСТО • химчистка{% endblock %}</title>
+  <link rel="stylesheet" href="{% static 'css/main.css' %}">
+  <script defer src="{% static 'js/main.js' %}"></script>
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner container">
+    <a class="brand" href="{% url 'home' %}">ЧИСТО <span>• химчистка</span></a>
+    <button class="burger" type="button" aria-label="Открыть меню" aria-expanded="false"><span></span><span></span><span></span></button>
+    <nav class="main-nav" aria-label="Главная навигация">
+      <a href="{% url 'services' %}">Услуги</a>
+      <a href="{% url 'about' %}#how-it-works">Как это работает</a>
+      <a href="{% url 'about' %}#contacts">Контакты</a>
+      {% if user.is_authenticated %}
+        <a href="{% url 'profile' %}">Личный кабинет</a>
+        <form class="nav-logout" method="post" action="{% url 'logout' %}">{% csrf_token %}<button type="submit">Выйти</button></form>
+      {% else %}
+        <a href="{% url 'login' %}">Личный кабинет</a>
+        <a href="{% url 'login' %}">Войти</a>
+      {% endif %}
+    </nav>
+  </div>
+</header>
+{% if messages %}<div class="container messages">{% for message in messages %}<p class="message {{ message.tags }}">{{ message }}</p>{% endfor %}</div>{% endif %}
+<main>{% block content %}{% endblock %}</main>
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <a class="brand footer-brand" href="{% url 'home' %}">ЧИСТО <span>• химчистка</span></a>
+    <nav aria-label="Навигация в подвале"><a href="{% url 'services' %}">Услуги</a><a href="{% url 'about' %}#how-it-works">Как это работает</a><a href="{% url 'about' %}#contacts">Контакты</a></nav>
+    <span>Бережный уход за вашими вещами</span>
+  </div>
+  <div class="copyright">© 2026 ЧИСТО • химчистка</div>
+</footer>
+</body>
+</html>

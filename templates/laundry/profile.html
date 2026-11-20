@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block title %}Мои заказы — ЧИСТО{% endblock %}
+{% block content %}
+<section class="page-section"><div class="container">
+  <div class="page-heading"><h1>Мои заказы</h1><p>Статусы и информация по заказам клиента</p></div>
+  <h2 class="section-title">Ваши последние заказы</h2>
+  <div class="order-list">{% for order in orders %}
+    <article class="order-row"><div class="order-summary"><strong>{{ order.number }}</strong><span>{{ order.get_status_display }}</span><strong>{{ order.total_price|floatformat:0 }} ₽</strong></div><a class="btn btn-outline" href="{% url 'order_detail' order.pk %}">Открыть</a></article>
+  {% empty %}<p class="empty-state">У вас пока нет заказов.</p>{% endfor %}</div>
+  <a class="btn btn-primary new-order-btn" href="{% url 'create_order' %}">Новый заказ</a>
+</div></section>
+{% endblock %}

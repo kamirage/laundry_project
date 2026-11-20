@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block title %}Карточка заказа — ЧИСТО{% endblock %}
+{% block content %}
+<section class="page-section"><div class="container">
+  <div class="page-heading"><h1>Карточка заказа и акт</h1><p>Проверьте сведения об осмотре и подтвердите стоимость</p></div>
+  <div class="order-detail-layout">
+    <article class="detail-card order-main-card">
+      <h2>Заказ {{ order.number }}</h2>
+      <p class="status-text">Статус: {{ order.get_status_display|lower }}</p>
+      {% for item in order.items.all %}<h3>{{ item.garment_type.name }} · материал: {{ item.material.name|lower }} · {{ item.service.name|lower }}</h3>
+        {% with act=item.acts.first %}{% if act %}<p class="act-description">Акт осмотра, версия {{ act.version }}. {{ act.description }}</p>{% else %}<p class="act-description">Осмотр вещи будет проведён сотрудником. Информация появится здесь.</p>{% endif %}{% endwith %}
+      {% endfor %}
+      <p class="total-price">Итоговая стоимость: {{ order.total_price|floatformat:0 }} ₽</p>
+      {% if user.is_staff %}<a class="btn btn-primary" href="{% url 'staff_inspection' order.pk %}">Открыть осмотр</a>{% else %}
+      <div class="actions"><form method="post">{% csrf_token %}<button class="btn btn-primary" type="submit" name="action" value="approve" {% if not can_approve %}disabled{% endif %}>Подтвердить акт и стоимость</button></form><form method="post">{% csrf_token %}<button class="btn btn-outline" type="submit" name="action" value="clarify">Запросить уточнение</button></form></div>{% endif %}
+    </article>
+    <aside class="history-card"><h2>История заказа</h2><ol><li>Приём вещи</li><li>Осмотр и оформление акта</li><li>{{ order.get_status_display }}</li></ol></aside>
+  </div>
+</div></section>
+{% endblock %}

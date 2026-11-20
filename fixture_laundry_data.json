@@ -1,0 +1,5346 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "username": "client01",
+      "first_name": "Клиент",
+      "last_name": "Тестовый",
+      "email": "client01@example.test",
+      "password": "!",
+      "is_staff": false,
+      "is_active": true,
+      "is_superuser": false,
+      "last_login": null,
+      "date_joined": "2026-11-01T09:00:00Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+      "username": "client02",
+      "first_name": "Клиент",
+      "last_name": "Тестовый",
+      "email": "client02@example.test",
+      "password": "!",
+      "is_staff": false,
+      "is_active": true,
+      "is_superuser": false,
+      "last_login": null,
+      "date_joined": "2026-11-01T09:00:00Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 3,
+    "fields": {
+      "username": "client03",
+      "first_name": "Клиент",
+      "last_name": "Тестовый",
+      "email": "client03@example.test",
+      "password": "!",
+      "is_staff": false,
+      "is_active": true,
+      "is_superuser": false,
+      "last_login": null,
+      "date_joined": "2026-11-01T09:00:00Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 4,
+    "fields": {
+      "username": "client04",
+      "first_name": "Клиент",
+      "last_name": "Тестовый",
+      "email": "client04@example.test",
+      "password": "!",
+      "is_staff": false,
+      "is_active": true,
+      "is_superuser": false,
+      "last_login": null,
+      "date_joined": "2026-11-01T09:00:00Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 5,
+    "fields": {
+      "username": "client05",
+      "first_name": "Клиент",
+      "last_name": "Тестовый",
+      "email": "client05@example.test",
+      "password": "!",
+      "is_staff": false,
+      "is_active": true,
+      "is_superuser": false,
+      "last_login": null,
+      "date_joined": "2026-11-01T09:00:00Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 6,
+    "fields": {
+      "username": "client06",
+      "first_name": "Клиент",
+      "last_name": "Тестовый",
+      "email": "client06@example.test",
+      "password": "!",
+      "is_staff": false,
+      "is_active": true,
+      "is_superuser": false,
+      "last_login": null,
+      "date_joined": "2026-11-01T09:00:00Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 7,
+    "fields": {
+      "username": "client07",
+      "first_name": "Клиент",
+      "last_name": "Тестовый",
+      "email": "client07@example.test",
+      "password": "!",
+      "is_staff": false,
+      "is_active": true,
+      "is_superuser": false,
+      "last_login": null,
+      "date_joined": "2026-11-01T09:00:00Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 8,
+    "fields": {
+      "username": "client08",
+      "first_name": "Клиент",
+      "last_name": "Тестовый",
+      "email": "client08@example.test",
+      "password": "!",
+      "is_staff": false,
+      "is_active": true,
+      "is_superuser": false,
+      "last_login": null,
+      "date_joined": "2026-11-01T09:00:00Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 9,
+    "fields": {
+      "username": "client09",
+      "first_name": "Клиент",
+      "last_name": "Тестовый",
+      "email": "client09@example.test",
+      "password": "!",
+      "is_staff": false,
+      "is_active": true,
+      "is_superuser": false,
+      "last_login": null,
+      "date_joined": "2026-11-01T09:00:00Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 10,
+    "fields": {
+      "username": "client10",
+      "first_name": "Клиент",
+      "last_name": "Тестовый",
+      "email": "client10@example.test",
+      "password": "!",
+      "is_staff": false,
+      "is_active": true,
+      "is_superuser": false,
+      "last_login": null,
+      "date_joined": "2026-11-01T09:00:00Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 11,
+    "fields": {
+      "username": "client11",
+      "first_name": "Клиент",
+      "last_name": "Тестовый",
+      "email": "client11@example.test",
+      "password": "!",
+      "is_staff": false,
+      "is_active": true,
+      "is_superuser": false,
+      "last_login": null,
+      "date_joined": "2026-11-01T09:00:00Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 12,
+    "fields": {
+      "username": "client12",
+      "first_name": "Клиент",
+      "last_name": "Тестовый",
+      "email": "client12@example.test",
+      "password": "!",
+      "is_staff": false,
+      "is_active": true,
+      "is_superuser": false,
+      "last_login": null,
+      "date_joined": "2026-11-01T09:00:00Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 13,
+    "fields": {
+      "username": "client13",
+      "first_name": "Клиент",
+      "last_name": "Тестовый",
+      "email": "client13@example.test",
+      "password": "!",
+      "is_staff": false,
+      "is_active": true,
+      "is_superuser": false,
+      "last_login": null,
+      "date_joined": "2026-11-01T09:00:00Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 14,
+    "fields": {
+      "username": "client14",
+      "first_name": "Клиент",
+      "last_name": "Тестовый",
+      "email": "client14@example.test",
+      "password": "!",
+      "is_staff": false,
+      "is_active": true,
+      "is_superuser": false,
+      "last_login": null,
+      "date_joined": "2026-11-01T09:00:00Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 15,
+    "fields": {
+      "username": "client15",
+      "first_name": "Клиент",
+      "last_name": "Тестовый",
+      "email": "client15@example.test",
+      "password": "!",
+      "is_staff": false,
+      "is_active": true,
+      "is_superuser": false,
+      "last_login": null,
+      "date_joined": "2026-11-01T09:00:00Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "laundry.customerprofile",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "phone": "+79990000001",
+      "address": "Ульяновск, ул. Примерная, 1",
+      "created_at": "2026-11-01T09:00:00Z"
+    }
+  },
+  {
+    "model": "laundry.customerprofile",
+    "pk": 2,
+    "fields": {
+      "user": 2,
+      "phone": "+79990000002",
+      "address": "Ульяновск, ул. Примерная, 2",
+      "created_at": "2026-11-01T09:00:00Z"
+    }
+  },
+  {
+    "model": "laundry.customerprofile",
+    "pk": 3,
+    "fields": {
+      "user": 3,
+      "phone": "+79990000003",
+      "address": "Ульяновск, ул. Примерная, 3",
+      "created_at": "2026-11-01T09:00:00Z"
+    }
+  },
+  {
+    "model": "laundry.customerprofile",
+    "pk": 4,
+    "fields": {
+      "user": 4,
+      "phone": "+79990000004",
+      "address": "Ульяновск, ул. Примерная, 4",
+      "created_at": "2026-11-01T09:00:00Z"
+    }
+  },
+  {
+    "model": "laundry.customerprofile",
+    "pk": 5,
+    "fields": {
+      "user": 5,
+      "phone": "+79990000005",
+      "address": "Ульяновск, ул. Примерная, 5",
+      "created_at": "2026-11-01T09:00:00Z"
+    }
+  },
+  {
+    "model": "laundry.customerprofile",
+    "pk": 6,
+    "fields": {
+      "user": 6,
+      "phone": "+79990000006",
+      "address": "Ульяновск, ул. Примерная, 6",
+      "created_at": "2026-11-01T09:00:00Z"
+    }
+  },
+  {
+    "model": "laundry.customerprofile",
+    "pk": 7,
+    "fields": {
+      "user": 7,
+      "phone": "+79990000007",
+      "address": "Ульяновск, ул. Примерная, 7",
+      "created_at": "2026-11-01T09:00:00Z"
+    }
+  },
+  {
+    "model": "laundry.customerprofile",
+    "pk": 8,
+    "fields": {
+      "user": 8,
+      "phone": "+79990000008",
+      "address": "Ульяновск, ул. Примерная, 8",
+      "created_at": "2026-11-01T09:00:00Z"
+    }
+  },
+  {
+    "model": "laundry.customerprofile",
+    "pk": 9,
+    "fields": {
+      "user": 9,
+      "phone": "+79990000009",
+      "address": "Ульяновск, ул. Примерная, 9",
+      "created_at": "2026-11-01T09:00:00Z"
+    }
+  },
+  {
+    "model": "laundry.customerprofile",
+    "pk": 10,
+    "fields": {
+      "user": 10,
+      "phone": "+79990000010",
+      "address": "Ульяновск, ул. Примерная, 10",
+      "created_at": "2026-11-01T09:00:00Z"
+    }
+  },
+  {
+    "model": "laundry.customerprofile",
+    "pk": 11,
+    "fields": {
+      "user": 11,
+      "phone": "+79990000011",
+      "address": "Ульяновск, ул. Примерная, 11",
+      "created_at": "2026-11-01T09:00:00Z"
+    }
+  },
+  {
+    "model": "laundry.customerprofile",
+    "pk": 12,
+    "fields": {
+      "user": 12,
+      "phone": "+79990000012",
+      "address": "Ульяновск, ул. Примерная, 12",
+      "created_at": "2026-11-01T09:00:00Z"
+    }
+  },
+  {
+    "model": "laundry.customerprofile",
+    "pk": 13,
+    "fields": {
+      "user": 13,
+      "phone": "+79990000013",
+      "address": "Ульяновск, ул. Примерная, 13",
+      "created_at": "2026-11-01T09:00:00Z"
+    }
+  },
+  {
+    "model": "laundry.customerprofile",
+    "pk": 14,
+    "fields": {
+      "user": 14,
+      "phone": "+79990000014",
+      "address": "Ульяновск, ул. Примерная, 14",
+      "created_at": "2026-11-01T09:00:00Z"
+    }
+  },
+  {
+    "model": "laundry.customerprofile",
+    "pk": 15,
+    "fields": {
+      "user": 15,
+      "phone": "+79990000015",
+      "address": "Ульяновск, ул. Примерная, 15",
+      "created_at": "2026-11-01T09:00:00Z"
+    }
+  },
+  {
+    "model": "laundry.servicetype",
+    "pk": 1,
+    "fields": {
+      "name": "Химчистка",
+      "description": "Химическая чистка",
+      "base_tariff": 650,
+      "is_active": true
+    }
+  },
+  {
+    "model": "laundry.servicetype",
+    "pk": 2,
+    "fields": {
+      "name": "Стирка",
+      "description": "Стирка и сушка",
+      "base_tariff": 250,
+      "is_active": true
+    }
+  },
+  {
+    "model": "laundry.servicetype",
+    "pk": 3,
+    "fields": {
+      "name": "Глажение",
+      "description": "Влажно-тепловая обработка",
+      "base_tariff": 180,
+      "is_active": true
+    }
+  },
+  {
+    "model": "laundry.servicetype",
+    "pk": 4,
+    "fields": {
+      "name": "Удаление пятен",
+      "description": "Локальная обработка",
+      "base_tariff": 300,
+      "is_active": true
+    }
+  },
+  {
+    "model": "laundry.material",
+    "pk": 1,
+    "fields": {
+      "name": "Хлопок",
+      "coefficient": 1.0
+    }
+  },
+  {
+    "model": "laundry.material",
+    "pk": 2,
+    "fields": {
+      "name": "Шерсть",
+      "coefficient": 1.35
+    }
+  },
+  {
+    "model": "laundry.material",
+    "pk": 3,
+    "fields": {
+      "name": "Шёлк",
+      "coefficient": 1.6
+    }
+  },
+  {
+    "model": "laundry.material",
+    "pk": 4,
+    "fields": {
+      "name": "Синтетика",
+      "coefficient": 0.9
+    }
+  },
+  {
+    "model": "laundry.material",
+    "pk": 5,
+    "fields": {
+      "name": "Кожа",
+      "coefficient": 1.8
+    }
+  },
+  {
+    "model": "laundry.garmenttype",
+    "pk": 1,
+    "fields": {
+      "name": "Рубашка",
+      "category": "Верхняя одежда",
+      "default_complexity": 1.0
+    }
+  },
+  {
+    "model": "laundry.garmenttype",
+    "pk": 2,
+    "fields": {
+      "name": "Брюки",
+      "category": "Одежда",
+      "default_complexity": 1.1
+    }
+  },
+  {
+    "model": "laundry.garmenttype",
+    "pk": 3,
+    "fields": {
+      "name": "Пальто",
+      "category": "Верхняя одежда",
+      "default_complexity": 1.7
+    }
+  },
+  {
+    "model": "laundry.garmenttype",
+    "pk": 4,
+    "fields": {
+      "name": "Платье",
+      "category": "Одежда",
+      "default_complexity": 1.3
+    }
+  },
+  {
+    "model": "laundry.garmenttype",
+    "pk": 5,
+    "fields": {
+      "name": "Куртка",
+      "category": "Верхняя одежда",
+      "default_complexity": 1.5
+    }
+  },
+  {
+    "model": "laundry.garmenttype",
+    "pk": 6,
+    "fields": {
+      "name": "Плед",
+      "category": "Домашний текстиль",
+      "default_complexity": 1.2
+    }
+  },
+  {
+    "model": "laundry.defect",
+    "pk": 1,
+    "fields": {
+      "name": "Пятно",
+      "description": "Типовой дефект, фиксируемый при осмотре"
+    }
+  },
+  {
+    "model": "laundry.defect",
+    "pk": 2,
+    "fields": {
+      "name": "Потёртость",
+      "description": "Типовой дефект, фиксируемый при осмотре"
+    }
+  },
+  {
+    "model": "laundry.defect",
+    "pk": 3,
+    "fields": {
+      "name": "Разрыв",
+      "description": "Типовой дефект, фиксируемый при осмотре"
+    }
+  },
+  {
+    "model": "laundry.defect",
+    "pk": 4,
+    "fields": {
+      "name": "Потеря цвета",
+      "description": "Типовой дефект, фиксируемый при осмотре"
+    }
+  },
+  {
+    "model": "laundry.defect",
+    "pk": 5,
+    "fields": {
+      "name": "Деформация",
+      "description": "Типовой дефект, фиксируемый при осмотре"
+    }
+  },
+  {
+    "model": "laundry.defect",
+    "pk": 6,
+    "fields": {
+      "name": "Затяжка",
+      "description": "Типовой дефект, фиксируемый при осмотре"
+    }
+  },
+  {
+    "model": "laundry.defect",
+    "pk": 7,
+    "fields": {
+      "name": "Следы краски",
+      "description": "Типовой дефект, фиксируемый при осмотре"
+    }
+  },
+  {
+    "model": "laundry.defect",
+    "pk": 8,
+    "fields": {
+      "name": "Загрязнение манжет",
+      "description": "Типовой дефект, фиксируемый при осмотре"
+    }
+  },
+  {
+    "model": "laundry.defect",
+    "pk": 9,
+    "fields": {
+      "name": "Повреждение подкладки",
+      "description": "Типовой дефект, фиксируемый при осмотре"
+    }
+  },
+  {
+    "model": "laundry.defect",
+    "pk": 10,
+    "fields": {
+      "name": "Ослабление шва",
+      "description": "Типовой дефект, фиксируемый при осмотре"
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 1,
+    "fields": {
+      "number": "CH-0001",
+      "customer": 1,
+      "created_at": "2026-11-02T10:00:00Z",
+      "status": "new",
+      "due_date": "2026-11-30",
+      "total_price": 1021.25
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 2,
+    "fields": {
+      "number": "CH-0002",
+      "customer": 2,
+      "created_at": "2026-11-03T10:00:00Z",
+      "status": "inspection",
+      "due_date": "2026-11-30",
+      "total_price": 860.85
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 3,
+    "fields": {
+      "number": "CH-0003",
+      "customer": 3,
+      "created_at": "2026-11-04T10:00:00Z",
+      "status": "waiting",
+      "due_date": "2026-11-30",
+      "total_price": 840.6
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 4,
+    "fields": {
+      "number": "CH-0004",
+      "customer": 4,
+      "created_at": "2026-11-05T10:00:00Z",
+      "status": "processing",
+      "due_date": "2026-11-30",
+      "total_price": 2106.0
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 5,
+    "fields": {
+      "number": "CH-0005",
+      "customer": 5,
+      "created_at": "2026-11-06T10:00:00Z",
+      "status": "quality",
+      "due_date": "2026-11-30",
+      "total_price": 3082.5
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 6,
+    "fields": {
+      "number": "CH-0006",
+      "customer": 6,
+      "created_at": "2026-11-07T10:00:00Z",
+      "status": "ready",
+      "due_date": "2026-11-30",
+      "total_price": 543.0
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 7,
+    "fields": {
+      "number": "CH-0007",
+      "customer": 7,
+      "created_at": "2026-11-08T10:00:00Z",
+      "status": "issued",
+      "due_date": "2026-11-30",
+      "total_price": 771.0
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 8,
+    "fields": {
+      "number": "CH-0008",
+      "customer": 8,
+      "created_at": "2026-11-09T10:00:00Z",
+      "status": "new",
+      "due_date": "2026-11-30",
+      "total_price": 1522.5
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 9,
+    "fields": {
+      "number": "CH-0009",
+      "customer": 9,
+      "created_at": "2026-11-10T10:00:00Z",
+      "status": "inspection",
+      "due_date": "2026-11-30",
+      "total_price": 1579.5
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 10,
+    "fields": {
+      "number": "CH-0010",
+      "customer": 10,
+      "created_at": "2026-11-11T10:00:00Z",
+      "status": "waiting",
+      "due_date": "2026-11-30",
+      "total_price": 1282.5
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 11,
+    "fields": {
+      "number": "CH-0011",
+      "customer": 11,
+      "created_at": "2026-11-12T10:00:00Z",
+      "status": "processing",
+      "due_date": "2026-11-30",
+      "total_price": 756.0
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 12,
+    "fields": {
+      "number": "CH-0012",
+      "customer": 12,
+      "created_at": "2026-11-13T10:00:00Z",
+      "status": "quality",
+      "due_date": "2026-11-30",
+      "total_price": 1526.0
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 13,
+    "fields": {
+      "number": "CH-0013",
+      "customer": 13,
+      "created_at": "2026-11-14T10:00:00Z",
+      "status": "ready",
+      "due_date": "2026-11-30",
+      "total_price": 1287.5
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 14,
+    "fields": {
+      "number": "CH-0014",
+      "customer": 14,
+      "created_at": "2026-11-15T10:00:00Z",
+      "status": "issued",
+      "due_date": "2026-11-30",
+      "total_price": 798.3
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 15,
+    "fields": {
+      "number": "CH-0015",
+      "customer": 15,
+      "created_at": "2026-11-01T10:00:00Z",
+      "status": "new",
+      "due_date": "2026-11-30",
+      "total_price": 1411.2
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 16,
+    "fields": {
+      "number": "CH-0016",
+      "customer": 1,
+      "created_at": "2026-11-02T10:00:00Z",
+      "status": "inspection",
+      "due_date": "2026-11-30",
+      "total_price": 1706.25
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 17,
+    "fields": {
+      "number": "CH-0017",
+      "customer": 2,
+      "created_at": "2026-11-03T10:00:00Z",
+      "status": "waiting",
+      "due_date": "2026-11-30",
+      "total_price": 1796.25
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 18,
+    "fields": {
+      "number": "CH-0018",
+      "customer": 3,
+      "created_at": "2026-11-04T10:00:00Z",
+      "status": "processing",
+      "due_date": "2026-11-30",
+      "total_price": 642.0
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 19,
+    "fields": {
+      "number": "CH-0019",
+      "customer": 4,
+      "created_at": "2026-11-05T10:00:00Z",
+      "status": "quality",
+      "due_date": "2026-11-30",
+      "total_price": 756.0
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 20,
+    "fields": {
+      "number": "CH-0020",
+      "customer": 5,
+      "created_at": "2026-11-06T10:00:00Z",
+      "status": "ready",
+      "due_date": "2026-11-30",
+      "total_price": 2548.5
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 21,
+    "fields": {
+      "number": "CH-0021",
+      "customer": 6,
+      "created_at": "2026-11-07T10:00:00Z",
+      "status": "issued",
+      "due_date": "2026-11-30",
+      "total_price": 1543.75
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 22,
+    "fields": {
+      "number": "CH-0022",
+      "customer": 7,
+      "created_at": "2026-11-08T10:00:00Z",
+      "status": "new",
+      "due_date": "2026-11-30",
+      "total_price": 870.75
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 23,
+    "fields": {
+      "number": "CH-0023",
+      "customer": 8,
+      "created_at": "2026-11-09T10:00:00Z",
+      "status": "inspection",
+      "due_date": "2026-11-30",
+      "total_price": 756.0
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 24,
+    "fields": {
+      "number": "CH-0024",
+      "customer": 9,
+      "created_at": "2026-11-10T10:00:00Z",
+      "status": "waiting",
+      "due_date": "2026-11-30",
+      "total_price": 1494.0
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 25,
+    "fields": {
+      "number": "CH-0025",
+      "customer": 10,
+      "created_at": "2026-11-11T10:00:00Z",
+      "status": "processing",
+      "due_date": "2026-11-30",
+      "total_price": 2167.5
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 26,
+    "fields": {
+      "number": "CH-0026",
+      "customer": 11,
+      "created_at": "2026-11-12T10:00:00Z",
+      "status": "quality",
+      "due_date": "2026-11-30",
+      "total_price": 688.1
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 27,
+    "fields": {
+      "number": "CH-0027",
+      "customer": 12,
+      "created_at": "2026-11-13T10:00:00Z",
+      "status": "ready",
+      "due_date": "2026-11-30",
+      "total_price": 1037.1
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 28,
+    "fields": {
+      "number": "CH-0028",
+      "customer": 13,
+      "created_at": "2026-11-14T10:00:00Z",
+      "status": "issued",
+      "due_date": "2026-11-30",
+      "total_price": 1501.5
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 29,
+    "fields": {
+      "number": "CH-0029",
+      "customer": 14,
+      "created_at": "2026-11-15T10:00:00Z",
+      "status": "new",
+      "due_date": "2026-11-30",
+      "total_price": 1417.5
+    }
+  },
+  {
+    "model": "laundry.order",
+    "pk": 30,
+    "fields": {
+      "number": "CH-0030",
+      "customer": 15,
+      "created_at": "2026-11-01T10:00:00Z",
+      "status": "inspection",
+      "due_date": "2026-11-30",
+      "total_price": 1080.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 1,
+    "fields": {
+      "order": 1,
+      "garment_type": 1,
+      "service": 1,
+      "material": 1,
+      "description": "Вещь 1 заказа 1",
+      "urgency_coefficient": 1.0,
+      "item_price": 650.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 2,
+    "fields": {
+      "order": 1,
+      "garment_type": 2,
+      "service": 2,
+      "material": 2,
+      "description": "Вещь 2 заказа 1",
+      "urgency_coefficient": 1.0,
+      "item_price": 371.25
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 3,
+    "fields": {
+      "order": 2,
+      "garment_type": 2,
+      "service": 2,
+      "material": 2,
+      "description": "Вещь 1 заказа 2",
+      "urgency_coefficient": 1.0,
+      "item_price": 371.25
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 4,
+    "fields": {
+      "order": 2,
+      "garment_type": 3,
+      "service": 3,
+      "material": 3,
+      "description": "Вещь 2 заказа 2",
+      "urgency_coefficient": 1.0,
+      "item_price": 489.6
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 5,
+    "fields": {
+      "order": 3,
+      "garment_type": 3,
+      "service": 3,
+      "material": 3,
+      "description": "Вещь 1 заказа 3",
+      "urgency_coefficient": 1.0,
+      "item_price": 489.6
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 6,
+    "fields": {
+      "order": 3,
+      "garment_type": 4,
+      "service": 4,
+      "material": 4,
+      "description": "Вещь 2 заказа 3",
+      "urgency_coefficient": 1.0,
+      "item_price": 351.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 7,
+    "fields": {
+      "order": 4,
+      "garment_type": 4,
+      "service": 4,
+      "material": 4,
+      "description": "Вещь 1 заказа 4",
+      "urgency_coefficient": 1.0,
+      "item_price": 351.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 8,
+    "fields": {
+      "order": 4,
+      "garment_type": 5,
+      "service": 1,
+      "material": 5,
+      "description": "Вещь 2 заказа 4",
+      "urgency_coefficient": 1.0,
+      "item_price": 1755.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 9,
+    "fields": {
+      "order": 5,
+      "garment_type": 5,
+      "service": 1,
+      "material": 5,
+      "description": "Вещь 1 заказа 5",
+      "urgency_coefficient": 1.5,
+      "item_price": 2632.5
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 10,
+    "fields": {
+      "order": 5,
+      "garment_type": 6,
+      "service": 2,
+      "material": 1,
+      "description": "Вещь 2 заказа 5",
+      "urgency_coefficient": 1.5,
+      "item_price": 450.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 11,
+    "fields": {
+      "order": 6,
+      "garment_type": 6,
+      "service": 2,
+      "material": 1,
+      "description": "Вещь 1 заказа 6",
+      "urgency_coefficient": 1.0,
+      "item_price": 300.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 12,
+    "fields": {
+      "order": 6,
+      "garment_type": 1,
+      "service": 3,
+      "material": 2,
+      "description": "Вещь 2 заказа 6",
+      "urgency_coefficient": 1.0,
+      "item_price": 243.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 13,
+    "fields": {
+      "order": 7,
+      "garment_type": 1,
+      "service": 3,
+      "material": 2,
+      "description": "Вещь 1 заказа 7",
+      "urgency_coefficient": 1.0,
+      "item_price": 243.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 14,
+    "fields": {
+      "order": 7,
+      "garment_type": 2,
+      "service": 4,
+      "material": 3,
+      "description": "Вещь 2 заказа 7",
+      "urgency_coefficient": 1.0,
+      "item_price": 528.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 15,
+    "fields": {
+      "order": 8,
+      "garment_type": 2,
+      "service": 4,
+      "material": 3,
+      "description": "Вещь 1 заказа 8",
+      "urgency_coefficient": 1.0,
+      "item_price": 528.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 16,
+    "fields": {
+      "order": 8,
+      "garment_type": 3,
+      "service": 1,
+      "material": 4,
+      "description": "Вещь 2 заказа 8",
+      "urgency_coefficient": 1.0,
+      "item_price": 994.5
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 17,
+    "fields": {
+      "order": 9,
+      "garment_type": 3,
+      "service": 1,
+      "material": 4,
+      "description": "Вещь 1 заказа 9",
+      "urgency_coefficient": 1.0,
+      "item_price": 994.5
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 18,
+    "fields": {
+      "order": 9,
+      "garment_type": 4,
+      "service": 2,
+      "material": 5,
+      "description": "Вещь 2 заказа 9",
+      "urgency_coefficient": 1.0,
+      "item_price": 585.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 19,
+    "fields": {
+      "order": 10,
+      "garment_type": 4,
+      "service": 2,
+      "material": 5,
+      "description": "Вещь 1 заказа 10",
+      "urgency_coefficient": 1.5,
+      "item_price": 877.5
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 20,
+    "fields": {
+      "order": 10,
+      "garment_type": 5,
+      "service": 3,
+      "material": 1,
+      "description": "Вещь 2 заказа 10",
+      "urgency_coefficient": 1.5,
+      "item_price": 405.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 21,
+    "fields": {
+      "order": 11,
+      "garment_type": 5,
+      "service": 3,
+      "material": 1,
+      "description": "Вещь 1 заказа 11",
+      "urgency_coefficient": 1.0,
+      "item_price": 270.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 22,
+    "fields": {
+      "order": 11,
+      "garment_type": 6,
+      "service": 4,
+      "material": 2,
+      "description": "Вещь 2 заказа 11",
+      "urgency_coefficient": 1.0,
+      "item_price": 486.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 23,
+    "fields": {
+      "order": 12,
+      "garment_type": 6,
+      "service": 4,
+      "material": 2,
+      "description": "Вещь 1 заказа 12",
+      "urgency_coefficient": 1.0,
+      "item_price": 486.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 24,
+    "fields": {
+      "order": 12,
+      "garment_type": 1,
+      "service": 1,
+      "material": 3,
+      "description": "Вещь 2 заказа 12",
+      "urgency_coefficient": 1.0,
+      "item_price": 1040.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 25,
+    "fields": {
+      "order": 13,
+      "garment_type": 1,
+      "service": 1,
+      "material": 3,
+      "description": "Вещь 1 заказа 13",
+      "urgency_coefficient": 1.0,
+      "item_price": 1040.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 26,
+    "fields": {
+      "order": 13,
+      "garment_type": 2,
+      "service": 2,
+      "material": 4,
+      "description": "Вещь 2 заказа 13",
+      "urgency_coefficient": 1.0,
+      "item_price": 247.5
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 27,
+    "fields": {
+      "order": 14,
+      "garment_type": 2,
+      "service": 2,
+      "material": 4,
+      "description": "Вещь 1 заказа 14",
+      "urgency_coefficient": 1.0,
+      "item_price": 247.5
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 28,
+    "fields": {
+      "order": 14,
+      "garment_type": 3,
+      "service": 3,
+      "material": 5,
+      "description": "Вещь 2 заказа 14",
+      "urgency_coefficient": 1.0,
+      "item_price": 550.8
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 29,
+    "fields": {
+      "order": 15,
+      "garment_type": 3,
+      "service": 3,
+      "material": 5,
+      "description": "Вещь 1 заказа 15",
+      "urgency_coefficient": 1.5,
+      "item_price": 826.2
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 30,
+    "fields": {
+      "order": 15,
+      "garment_type": 4,
+      "service": 4,
+      "material": 1,
+      "description": "Вещь 2 заказа 15",
+      "urgency_coefficient": 1.5,
+      "item_price": 585.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 31,
+    "fields": {
+      "order": 16,
+      "garment_type": 4,
+      "service": 4,
+      "material": 1,
+      "description": "Вещь 1 заказа 16",
+      "urgency_coefficient": 1.0,
+      "item_price": 390.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 32,
+    "fields": {
+      "order": 16,
+      "garment_type": 5,
+      "service": 1,
+      "material": 2,
+      "description": "Вещь 2 заказа 16",
+      "urgency_coefficient": 1.0,
+      "item_price": 1316.25
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 33,
+    "fields": {
+      "order": 17,
+      "garment_type": 5,
+      "service": 1,
+      "material": 2,
+      "description": "Вещь 1 заказа 17",
+      "urgency_coefficient": 1.0,
+      "item_price": 1316.25
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 34,
+    "fields": {
+      "order": 17,
+      "garment_type": 6,
+      "service": 2,
+      "material": 3,
+      "description": "Вещь 2 заказа 17",
+      "urgency_coefficient": 1.0,
+      "item_price": 480.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 35,
+    "fields": {
+      "order": 18,
+      "garment_type": 6,
+      "service": 2,
+      "material": 3,
+      "description": "Вещь 1 заказа 18",
+      "urgency_coefficient": 1.0,
+      "item_price": 480.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 36,
+    "fields": {
+      "order": 18,
+      "garment_type": 1,
+      "service": 3,
+      "material": 4,
+      "description": "Вещь 2 заказа 18",
+      "urgency_coefficient": 1.0,
+      "item_price": 162.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 37,
+    "fields": {
+      "order": 19,
+      "garment_type": 1,
+      "service": 3,
+      "material": 4,
+      "description": "Вещь 1 заказа 19",
+      "urgency_coefficient": 1.0,
+      "item_price": 162.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 38,
+    "fields": {
+      "order": 19,
+      "garment_type": 2,
+      "service": 4,
+      "material": 5,
+      "description": "Вещь 2 заказа 19",
+      "urgency_coefficient": 1.0,
+      "item_price": 594.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 39,
+    "fields": {
+      "order": 20,
+      "garment_type": 2,
+      "service": 4,
+      "material": 5,
+      "description": "Вещь 1 заказа 20",
+      "urgency_coefficient": 1.5,
+      "item_price": 891.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 40,
+    "fields": {
+      "order": 20,
+      "garment_type": 3,
+      "service": 1,
+      "material": 1,
+      "description": "Вещь 2 заказа 20",
+      "urgency_coefficient": 1.5,
+      "item_price": 1657.5
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 41,
+    "fields": {
+      "order": 21,
+      "garment_type": 3,
+      "service": 1,
+      "material": 1,
+      "description": "Вещь 1 заказа 21",
+      "urgency_coefficient": 1.0,
+      "item_price": 1105.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 42,
+    "fields": {
+      "order": 21,
+      "garment_type": 4,
+      "service": 2,
+      "material": 2,
+      "description": "Вещь 2 заказа 21",
+      "urgency_coefficient": 1.0,
+      "item_price": 438.75
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 43,
+    "fields": {
+      "order": 22,
+      "garment_type": 4,
+      "service": 2,
+      "material": 2,
+      "description": "Вещь 1 заказа 22",
+      "urgency_coefficient": 1.0,
+      "item_price": 438.75
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 44,
+    "fields": {
+      "order": 22,
+      "garment_type": 5,
+      "service": 3,
+      "material": 3,
+      "description": "Вещь 2 заказа 22",
+      "urgency_coefficient": 1.0,
+      "item_price": 432.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 45,
+    "fields": {
+      "order": 23,
+      "garment_type": 5,
+      "service": 3,
+      "material": 3,
+      "description": "Вещь 1 заказа 23",
+      "urgency_coefficient": 1.0,
+      "item_price": 432.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 46,
+    "fields": {
+      "order": 23,
+      "garment_type": 6,
+      "service": 4,
+      "material": 4,
+      "description": "Вещь 2 заказа 23",
+      "urgency_coefficient": 1.0,
+      "item_price": 324.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 47,
+    "fields": {
+      "order": 24,
+      "garment_type": 6,
+      "service": 4,
+      "material": 4,
+      "description": "Вещь 1 заказа 24",
+      "urgency_coefficient": 1.0,
+      "item_price": 324.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 48,
+    "fields": {
+      "order": 24,
+      "garment_type": 1,
+      "service": 1,
+      "material": 5,
+      "description": "Вещь 2 заказа 24",
+      "urgency_coefficient": 1.0,
+      "item_price": 1170.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 49,
+    "fields": {
+      "order": 25,
+      "garment_type": 1,
+      "service": 1,
+      "material": 5,
+      "description": "Вещь 1 заказа 25",
+      "urgency_coefficient": 1.5,
+      "item_price": 1755.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 50,
+    "fields": {
+      "order": 25,
+      "garment_type": 2,
+      "service": 2,
+      "material": 1,
+      "description": "Вещь 2 заказа 25",
+      "urgency_coefficient": 1.5,
+      "item_price": 412.5
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 51,
+    "fields": {
+      "order": 26,
+      "garment_type": 2,
+      "service": 2,
+      "material": 1,
+      "description": "Вещь 1 заказа 26",
+      "urgency_coefficient": 1.0,
+      "item_price": 275.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 52,
+    "fields": {
+      "order": 26,
+      "garment_type": 3,
+      "service": 3,
+      "material": 2,
+      "description": "Вещь 2 заказа 26",
+      "urgency_coefficient": 1.0,
+      "item_price": 413.1
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 53,
+    "fields": {
+      "order": 27,
+      "garment_type": 3,
+      "service": 3,
+      "material": 2,
+      "description": "Вещь 1 заказа 27",
+      "urgency_coefficient": 1.0,
+      "item_price": 413.1
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 54,
+    "fields": {
+      "order": 27,
+      "garment_type": 4,
+      "service": 4,
+      "material": 3,
+      "description": "Вещь 2 заказа 27",
+      "urgency_coefficient": 1.0,
+      "item_price": 624.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 55,
+    "fields": {
+      "order": 28,
+      "garment_type": 4,
+      "service": 4,
+      "material": 3,
+      "description": "Вещь 1 заказа 28",
+      "urgency_coefficient": 1.0,
+      "item_price": 624.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 56,
+    "fields": {
+      "order": 28,
+      "garment_type": 5,
+      "service": 1,
+      "material": 4,
+      "description": "Вещь 2 заказа 28",
+      "urgency_coefficient": 1.0,
+      "item_price": 877.5
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 57,
+    "fields": {
+      "order": 29,
+      "garment_type": 5,
+      "service": 1,
+      "material": 4,
+      "description": "Вещь 1 заказа 29",
+      "urgency_coefficient": 1.0,
+      "item_price": 877.5
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 58,
+    "fields": {
+      "order": 29,
+      "garment_type": 6,
+      "service": 2,
+      "material": 5,
+      "description": "Вещь 2 заказа 29",
+      "urgency_coefficient": 1.0,
+      "item_price": 540.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 59,
+    "fields": {
+      "order": 30,
+      "garment_type": 6,
+      "service": 2,
+      "material": 5,
+      "description": "Вещь 1 заказа 30",
+      "urgency_coefficient": 1.5,
+      "item_price": 810.0
+    }
+  },
+  {
+    "model": "laundry.orderitem",
+    "pk": 60,
+    "fields": {
+      "order": 30,
+      "garment_type": 1,
+      "service": 3,
+      "material": 1,
+      "description": "Вещь 2 заказа 30",
+      "urgency_coefficient": 1.5,
+      "item_price": 270.0
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 1,
+    "fields": {
+      "item": 1,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 650.0,
+      "status": "approved",
+      "created_at": "2026-11-02T10:10:00Z",
+      "approved_at": "2026-11-02T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 2,
+    "fields": {
+      "item": 2,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 371.25,
+      "status": "approved",
+      "created_at": "2026-11-02T10:10:00Z",
+      "approved_at": "2026-11-02T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 3,
+    "fields": {
+      "item": 3,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 371.25,
+      "status": "approved",
+      "created_at": "2026-11-03T10:10:00Z",
+      "approved_at": "2026-11-03T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 4,
+    "fields": {
+      "item": 4,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 489.6,
+      "status": "approved",
+      "created_at": "2026-11-03T10:10:00Z",
+      "approved_at": "2026-11-03T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 5,
+    "fields": {
+      "item": 5,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 489.6,
+      "status": "sent",
+      "created_at": "2026-11-04T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 6,
+    "fields": {
+      "item": 6,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 351.0,
+      "status": "sent",
+      "created_at": "2026-11-04T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 7,
+    "fields": {
+      "item": 7,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 351.0,
+      "status": "approved",
+      "created_at": "2026-11-05T10:10:00Z",
+      "approved_at": "2026-11-05T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 8,
+    "fields": {
+      "item": 8,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 1755.0,
+      "status": "approved",
+      "created_at": "2026-11-05T10:10:00Z",
+      "approved_at": "2026-11-05T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 9,
+    "fields": {
+      "item": 9,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 2632.5,
+      "status": "approved",
+      "created_at": "2026-11-06T10:10:00Z",
+      "approved_at": "2026-11-06T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 10,
+    "fields": {
+      "item": 10,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 450.0,
+      "status": "approved",
+      "created_at": "2026-11-06T10:10:00Z",
+      "approved_at": "2026-11-06T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 11,
+    "fields": {
+      "item": 11,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 300.0,
+      "status": "sent",
+      "created_at": "2026-11-07T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 12,
+    "fields": {
+      "item": 12,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 243.0,
+      "status": "sent",
+      "created_at": "2026-11-07T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 13,
+    "fields": {
+      "item": 13,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 243.0,
+      "status": "approved",
+      "created_at": "2026-11-08T10:10:00Z",
+      "approved_at": "2026-11-08T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 14,
+    "fields": {
+      "item": 14,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 528.0,
+      "status": "approved",
+      "created_at": "2026-11-08T10:10:00Z",
+      "approved_at": "2026-11-08T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 15,
+    "fields": {
+      "item": 15,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 528.0,
+      "status": "approved",
+      "created_at": "2026-11-09T10:10:00Z",
+      "approved_at": "2026-11-09T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 16,
+    "fields": {
+      "item": 16,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 994.5,
+      "status": "approved",
+      "created_at": "2026-11-09T10:10:00Z",
+      "approved_at": "2026-11-09T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 17,
+    "fields": {
+      "item": 17,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 994.5,
+      "status": "sent",
+      "created_at": "2026-11-10T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 18,
+    "fields": {
+      "item": 18,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 585.0,
+      "status": "sent",
+      "created_at": "2026-11-10T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 19,
+    "fields": {
+      "item": 19,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 877.5,
+      "status": "approved",
+      "created_at": "2026-11-11T10:10:00Z",
+      "approved_at": "2026-11-11T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 20,
+    "fields": {
+      "item": 20,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 405.0,
+      "status": "approved",
+      "created_at": "2026-11-11T10:10:00Z",
+      "approved_at": "2026-11-11T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 21,
+    "fields": {
+      "item": 21,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 270.0,
+      "status": "approved",
+      "created_at": "2026-11-12T10:10:00Z",
+      "approved_at": "2026-11-12T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 22,
+    "fields": {
+      "item": 22,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 486.0,
+      "status": "approved",
+      "created_at": "2026-11-12T10:10:00Z",
+      "approved_at": "2026-11-12T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 23,
+    "fields": {
+      "item": 23,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 486.0,
+      "status": "sent",
+      "created_at": "2026-11-13T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 24,
+    "fields": {
+      "item": 24,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 1040.0,
+      "status": "sent",
+      "created_at": "2026-11-13T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 25,
+    "fields": {
+      "item": 25,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 1040.0,
+      "status": "approved",
+      "created_at": "2026-11-14T10:10:00Z",
+      "approved_at": "2026-11-14T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 26,
+    "fields": {
+      "item": 26,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 247.5,
+      "status": "approved",
+      "created_at": "2026-11-14T10:10:00Z",
+      "approved_at": "2026-11-14T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 27,
+    "fields": {
+      "item": 27,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 247.5,
+      "status": "approved",
+      "created_at": "2026-11-15T10:10:00Z",
+      "approved_at": "2026-11-15T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 28,
+    "fields": {
+      "item": 28,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 550.8,
+      "status": "approved",
+      "created_at": "2026-11-15T10:10:00Z",
+      "approved_at": "2026-11-15T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 29,
+    "fields": {
+      "item": 29,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 826.2,
+      "status": "sent",
+      "created_at": "2026-11-01T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 30,
+    "fields": {
+      "item": 30,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 585.0,
+      "status": "sent",
+      "created_at": "2026-11-01T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 31,
+    "fields": {
+      "item": 31,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 390.0,
+      "status": "approved",
+      "created_at": "2026-11-02T10:10:00Z",
+      "approved_at": "2026-11-02T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 32,
+    "fields": {
+      "item": 32,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 1316.25,
+      "status": "approved",
+      "created_at": "2026-11-02T10:10:00Z",
+      "approved_at": "2026-11-02T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 33,
+    "fields": {
+      "item": 33,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 1316.25,
+      "status": "approved",
+      "created_at": "2026-11-03T10:10:00Z",
+      "approved_at": "2026-11-03T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 34,
+    "fields": {
+      "item": 34,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 480.0,
+      "status": "approved",
+      "created_at": "2026-11-03T10:10:00Z",
+      "approved_at": "2026-11-03T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 35,
+    "fields": {
+      "item": 35,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 480.0,
+      "status": "sent",
+      "created_at": "2026-11-04T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 36,
+    "fields": {
+      "item": 36,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 162.0,
+      "status": "sent",
+      "created_at": "2026-11-04T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 37,
+    "fields": {
+      "item": 37,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 162.0,
+      "status": "approved",
+      "created_at": "2026-11-05T10:10:00Z",
+      "approved_at": "2026-11-05T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 38,
+    "fields": {
+      "item": 38,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 594.0,
+      "status": "approved",
+      "created_at": "2026-11-05T10:10:00Z",
+      "approved_at": "2026-11-05T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 39,
+    "fields": {
+      "item": 39,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 891.0,
+      "status": "approved",
+      "created_at": "2026-11-06T10:10:00Z",
+      "approved_at": "2026-11-06T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 40,
+    "fields": {
+      "item": 40,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 1657.5,
+      "status": "approved",
+      "created_at": "2026-11-06T10:10:00Z",
+      "approved_at": "2026-11-06T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 41,
+    "fields": {
+      "item": 41,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 1105.0,
+      "status": "sent",
+      "created_at": "2026-11-07T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 42,
+    "fields": {
+      "item": 42,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 438.75,
+      "status": "sent",
+      "created_at": "2026-11-07T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 43,
+    "fields": {
+      "item": 43,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 438.75,
+      "status": "approved",
+      "created_at": "2026-11-08T10:10:00Z",
+      "approved_at": "2026-11-08T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 44,
+    "fields": {
+      "item": 44,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 432.0,
+      "status": "approved",
+      "created_at": "2026-11-08T10:10:00Z",
+      "approved_at": "2026-11-08T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 45,
+    "fields": {
+      "item": 45,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 432.0,
+      "status": "approved",
+      "created_at": "2026-11-09T10:10:00Z",
+      "approved_at": "2026-11-09T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 46,
+    "fields": {
+      "item": 46,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 324.0,
+      "status": "approved",
+      "created_at": "2026-11-09T10:10:00Z",
+      "approved_at": "2026-11-09T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 47,
+    "fields": {
+      "item": 47,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 324.0,
+      "status": "sent",
+      "created_at": "2026-11-10T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 48,
+    "fields": {
+      "item": 48,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 1170.0,
+      "status": "sent",
+      "created_at": "2026-11-10T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 49,
+    "fields": {
+      "item": 49,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 1755.0,
+      "status": "approved",
+      "created_at": "2026-11-11T10:10:00Z",
+      "approved_at": "2026-11-11T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 50,
+    "fields": {
+      "item": 50,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 412.5,
+      "status": "approved",
+      "created_at": "2026-11-11T10:10:00Z",
+      "approved_at": "2026-11-11T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 51,
+    "fields": {
+      "item": 51,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 275.0,
+      "status": "approved",
+      "created_at": "2026-11-12T10:10:00Z",
+      "approved_at": "2026-11-12T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 52,
+    "fields": {
+      "item": 52,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 413.1,
+      "status": "approved",
+      "created_at": "2026-11-12T10:10:00Z",
+      "approved_at": "2026-11-12T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 53,
+    "fields": {
+      "item": 53,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 413.1,
+      "status": "sent",
+      "created_at": "2026-11-13T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 54,
+    "fields": {
+      "item": 54,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 624.0,
+      "status": "sent",
+      "created_at": "2026-11-13T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 55,
+    "fields": {
+      "item": 55,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 624.0,
+      "status": "approved",
+      "created_at": "2026-11-14T10:10:00Z",
+      "approved_at": "2026-11-14T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 56,
+    "fields": {
+      "item": 56,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 877.5,
+      "status": "approved",
+      "created_at": "2026-11-14T10:10:00Z",
+      "approved_at": "2026-11-14T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 57,
+    "fields": {
+      "item": 57,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 877.5,
+      "status": "approved",
+      "created_at": "2026-11-15T10:10:00Z",
+      "approved_at": "2026-11-15T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 58,
+    "fields": {
+      "item": 58,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 540.0,
+      "status": "approved",
+      "created_at": "2026-11-15T10:10:00Z",
+      "approved_at": "2026-11-15T10:20:00Z"
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 59,
+    "fields": {
+      "item": 59,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 810.0,
+      "status": "sent",
+      "created_at": "2026-11-01T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.inspectionact",
+    "pk": 60,
+    "fields": {
+      "item": 60,
+      "version": 1,
+      "description": "Осмотр выполнен, дефекты зафиксированы",
+      "estimated_price": 270.0,
+      "status": "sent",
+      "created_at": "2026-11-01T10:10:00Z",
+      "approved_at": null
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 3,
+    "fields": {
+      "act": 3,
+      "defect": 3,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 4,
+    "fields": {
+      "act": 4,
+      "defect": 3,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 7,
+    "fields": {
+      "act": 7,
+      "defect": 5,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 8,
+    "fields": {
+      "act": 8,
+      "defect": 5,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 11,
+    "fields": {
+      "act": 11,
+      "defect": 7,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 12,
+    "fields": {
+      "act": 12,
+      "defect": 7,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 15,
+    "fields": {
+      "act": 15,
+      "defect": 9,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 16,
+    "fields": {
+      "act": 16,
+      "defect": 9,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 19,
+    "fields": {
+      "act": 19,
+      "defect": 1,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 20,
+    "fields": {
+      "act": 20,
+      "defect": 1,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 23,
+    "fields": {
+      "act": 23,
+      "defect": 3,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 24,
+    "fields": {
+      "act": 24,
+      "defect": 3,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 27,
+    "fields": {
+      "act": 27,
+      "defect": 5,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 28,
+    "fields": {
+      "act": 28,
+      "defect": 5,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 31,
+    "fields": {
+      "act": 31,
+      "defect": 7,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 32,
+    "fields": {
+      "act": 32,
+      "defect": 7,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 35,
+    "fields": {
+      "act": 35,
+      "defect": 9,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 36,
+    "fields": {
+      "act": 36,
+      "defect": 9,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 39,
+    "fields": {
+      "act": 39,
+      "defect": 1,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 40,
+    "fields": {
+      "act": 40,
+      "defect": 1,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 43,
+    "fields": {
+      "act": 43,
+      "defect": 3,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 44,
+    "fields": {
+      "act": 44,
+      "defect": 3,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 47,
+    "fields": {
+      "act": 47,
+      "defect": 5,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 48,
+    "fields": {
+      "act": 48,
+      "defect": 5,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 51,
+    "fields": {
+      "act": 51,
+      "defect": 7,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 52,
+    "fields": {
+      "act": 52,
+      "defect": 7,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 55,
+    "fields": {
+      "act": 55,
+      "defect": 9,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 56,
+    "fields": {
+      "act": 56,
+      "defect": 9,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 59,
+    "fields": {
+      "act": 59,
+      "defect": 1,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.actdefect",
+    "pk": 60,
+    "fields": {
+      "act": 60,
+      "defect": 1,
+      "note": "Зафиксировано при приёме",
+      "location": "Передняя часть"
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 1,
+    "fields": {
+      "item": 1,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 2,
+    "fields": {
+      "item": 1,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 3,
+    "fields": {
+      "item": 1,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 4,
+    "fields": {
+      "item": 2,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 5,
+    "fields": {
+      "item": 2,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 6,
+    "fields": {
+      "item": 2,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 7,
+    "fields": {
+      "item": 3,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 8,
+    "fields": {
+      "item": 3,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 9,
+    "fields": {
+      "item": 3,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 10,
+    "fields": {
+      "item": 4,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 11,
+    "fields": {
+      "item": 4,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 12,
+    "fields": {
+      "item": 4,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 13,
+    "fields": {
+      "item": 5,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 14,
+    "fields": {
+      "item": 5,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 15,
+    "fields": {
+      "item": 5,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 16,
+    "fields": {
+      "item": 6,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 17,
+    "fields": {
+      "item": 6,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 18,
+    "fields": {
+      "item": 6,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 19,
+    "fields": {
+      "item": 7,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 20,
+    "fields": {
+      "item": 7,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 21,
+    "fields": {
+      "item": 7,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 22,
+    "fields": {
+      "item": 8,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 23,
+    "fields": {
+      "item": 8,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 24,
+    "fields": {
+      "item": 8,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 25,
+    "fields": {
+      "item": 9,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 26,
+    "fields": {
+      "item": 9,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 27,
+    "fields": {
+      "item": 9,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 28,
+    "fields": {
+      "item": 10,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 29,
+    "fields": {
+      "item": 10,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 30,
+    "fields": {
+      "item": 10,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 31,
+    "fields": {
+      "item": 11,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 32,
+    "fields": {
+      "item": 11,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 33,
+    "fields": {
+      "item": 11,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 34,
+    "fields": {
+      "item": 12,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 35,
+    "fields": {
+      "item": 12,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 36,
+    "fields": {
+      "item": 12,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 37,
+    "fields": {
+      "item": 13,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 38,
+    "fields": {
+      "item": 13,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 39,
+    "fields": {
+      "item": 13,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 40,
+    "fields": {
+      "item": 14,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 41,
+    "fields": {
+      "item": 14,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 42,
+    "fields": {
+      "item": 14,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 43,
+    "fields": {
+      "item": 15,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 44,
+    "fields": {
+      "item": 15,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 45,
+    "fields": {
+      "item": 15,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 46,
+    "fields": {
+      "item": 16,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 47,
+    "fields": {
+      "item": 16,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 48,
+    "fields": {
+      "item": 16,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 49,
+    "fields": {
+      "item": 17,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 50,
+    "fields": {
+      "item": 17,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 51,
+    "fields": {
+      "item": 17,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 52,
+    "fields": {
+      "item": 18,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 53,
+    "fields": {
+      "item": 18,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 54,
+    "fields": {
+      "item": 18,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 55,
+    "fields": {
+      "item": 19,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 56,
+    "fields": {
+      "item": 19,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 57,
+    "fields": {
+      "item": 19,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 58,
+    "fields": {
+      "item": 20,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 59,
+    "fields": {
+      "item": 20,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 60,
+    "fields": {
+      "item": 20,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 61,
+    "fields": {
+      "item": 21,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 62,
+    "fields": {
+      "item": 21,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 63,
+    "fields": {
+      "item": 21,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 64,
+    "fields": {
+      "item": 22,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 65,
+    "fields": {
+      "item": 22,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 66,
+    "fields": {
+      "item": 22,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 67,
+    "fields": {
+      "item": 23,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 68,
+    "fields": {
+      "item": 23,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 69,
+    "fields": {
+      "item": 23,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 70,
+    "fields": {
+      "item": 24,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 71,
+    "fields": {
+      "item": 24,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 72,
+    "fields": {
+      "item": 24,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 73,
+    "fields": {
+      "item": 25,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 74,
+    "fields": {
+      "item": 25,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 75,
+    "fields": {
+      "item": 25,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 76,
+    "fields": {
+      "item": 26,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 77,
+    "fields": {
+      "item": 26,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 78,
+    "fields": {
+      "item": 26,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 79,
+    "fields": {
+      "item": 27,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 80,
+    "fields": {
+      "item": 27,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 81,
+    "fields": {
+      "item": 27,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 82,
+    "fields": {
+      "item": 28,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 83,
+    "fields": {
+      "item": 28,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 84,
+    "fields": {
+      "item": 28,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 85,
+    "fields": {
+      "item": 29,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 86,
+    "fields": {
+      "item": 29,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 87,
+    "fields": {
+      "item": 29,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 88,
+    "fields": {
+      "item": 30,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 89,
+    "fields": {
+      "item": 30,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 90,
+    "fields": {
+      "item": 30,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 91,
+    "fields": {
+      "item": 31,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 92,
+    "fields": {
+      "item": 31,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 93,
+    "fields": {
+      "item": 31,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 94,
+    "fields": {
+      "item": 32,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 95,
+    "fields": {
+      "item": 32,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 96,
+    "fields": {
+      "item": 32,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 97,
+    "fields": {
+      "item": 33,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 98,
+    "fields": {
+      "item": 33,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 99,
+    "fields": {
+      "item": 33,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 100,
+    "fields": {
+      "item": 34,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 101,
+    "fields": {
+      "item": 34,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 102,
+    "fields": {
+      "item": 34,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 103,
+    "fields": {
+      "item": 35,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 104,
+    "fields": {
+      "item": 35,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 105,
+    "fields": {
+      "item": 35,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 106,
+    "fields": {
+      "item": 36,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 107,
+    "fields": {
+      "item": 36,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 108,
+    "fields": {
+      "item": 36,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 109,
+    "fields": {
+      "item": 37,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 110,
+    "fields": {
+      "item": 37,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 111,
+    "fields": {
+      "item": 37,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 112,
+    "fields": {
+      "item": 38,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 113,
+    "fields": {
+      "item": 38,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 114,
+    "fields": {
+      "item": 38,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 115,
+    "fields": {
+      "item": 39,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 116,
+    "fields": {
+      "item": 39,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 117,
+    "fields": {
+      "item": 39,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 118,
+    "fields": {
+      "item": 40,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 119,
+    "fields": {
+      "item": 40,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 120,
+    "fields": {
+      "item": 40,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 121,
+    "fields": {
+      "item": 41,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 122,
+    "fields": {
+      "item": 41,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 123,
+    "fields": {
+      "item": 41,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 124,
+    "fields": {
+      "item": 42,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 125,
+    "fields": {
+      "item": 42,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 126,
+    "fields": {
+      "item": 42,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 127,
+    "fields": {
+      "item": 43,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 128,
+    "fields": {
+      "item": 43,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 129,
+    "fields": {
+      "item": 43,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 130,
+    "fields": {
+      "item": 44,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 131,
+    "fields": {
+      "item": 44,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 132,
+    "fields": {
+      "item": 44,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 133,
+    "fields": {
+      "item": 45,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 134,
+    "fields": {
+      "item": 45,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 135,
+    "fields": {
+      "item": 45,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 136,
+    "fields": {
+      "item": 46,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 137,
+    "fields": {
+      "item": 46,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 138,
+    "fields": {
+      "item": 46,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 139,
+    "fields": {
+      "item": 47,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 140,
+    "fields": {
+      "item": 47,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 141,
+    "fields": {
+      "item": 47,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 142,
+    "fields": {
+      "item": 48,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 143,
+    "fields": {
+      "item": 48,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 144,
+    "fields": {
+      "item": 48,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 145,
+    "fields": {
+      "item": 49,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 146,
+    "fields": {
+      "item": 49,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 147,
+    "fields": {
+      "item": 49,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 148,
+    "fields": {
+      "item": 50,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 149,
+    "fields": {
+      "item": 50,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 150,
+    "fields": {
+      "item": 50,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 151,
+    "fields": {
+      "item": 51,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 152,
+    "fields": {
+      "item": 51,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 153,
+    "fields": {
+      "item": 51,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 154,
+    "fields": {
+      "item": 52,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 155,
+    "fields": {
+      "item": 52,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 156,
+    "fields": {
+      "item": 52,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 157,
+    "fields": {
+      "item": 53,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 158,
+    "fields": {
+      "item": 53,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 159,
+    "fields": {
+      "item": 53,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 160,
+    "fields": {
+      "item": 54,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 161,
+    "fields": {
+      "item": 54,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 162,
+    "fields": {
+      "item": 54,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 163,
+    "fields": {
+      "item": 55,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 164,
+    "fields": {
+      "item": 55,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 165,
+    "fields": {
+      "item": 55,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 166,
+    "fields": {
+      "item": 56,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 167,
+    "fields": {
+      "item": 56,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 168,
+    "fields": {
+      "item": 56,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 169,
+    "fields": {
+      "item": 57,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 170,
+    "fields": {
+      "item": 57,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 171,
+    "fields": {
+      "item": 57,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 172,
+    "fields": {
+      "item": 58,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 173,
+    "fields": {
+      "item": 58,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 174,
+    "fields": {
+      "item": 58,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 175,
+    "fields": {
+      "item": 59,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 176,
+    "fields": {
+      "item": 59,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 177,
+    "fields": {
+      "item": 59,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 178,
+    "fields": {
+      "item": 60,
+      "name": "Приём и осмотр",
+      "sequence": 1,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 179,
+    "fields": {
+      "item": 60,
+      "name": "Основная обработка",
+      "sequence": 2,
+      "status": "done",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.processingstage",
+    "pk": 180,
+    "fields": {
+      "item": 60,
+      "name": "Контроль качества",
+      "sequence": 3,
+      "status": "waiting",
+      "started_at": null,
+      "finished_at": null
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 1,
+    "fields": {
+      "order": 1,
+      "amount": 1021.25,
+      "method": "Карта",
+      "status": "pending",
+      "paid_at": null
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 2,
+    "fields": {
+      "order": 2,
+      "amount": 860.85,
+      "method": "Карта",
+      "status": "paid",
+      "paid_at": "2026-11-03T10:30:00Z"
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 3,
+    "fields": {
+      "order": 3,
+      "amount": 840.6,
+      "method": "Карта",
+      "status": "pending",
+      "paid_at": null
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 4,
+    "fields": {
+      "order": 4,
+      "amount": 2106.0,
+      "method": "Карта",
+      "status": "paid",
+      "paid_at": "2026-11-05T10:30:00Z"
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 5,
+    "fields": {
+      "order": 5,
+      "amount": 3082.5,
+      "method": "Карта",
+      "status": "pending",
+      "paid_at": null
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 6,
+    "fields": {
+      "order": 6,
+      "amount": 543.0,
+      "method": "Карта",
+      "status": "paid",
+      "paid_at": "2026-11-07T10:30:00Z"
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 7,
+    "fields": {
+      "order": 7,
+      "amount": 771.0,
+      "method": "Карта",
+      "status": "pending",
+      "paid_at": null
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 8,
+    "fields": {
+      "order": 8,
+      "amount": 1522.5,
+      "method": "Карта",
+      "status": "paid",
+      "paid_at": "2026-11-09T10:30:00Z"
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 9,
+    "fields": {
+      "order": 9,
+      "amount": 1579.5,
+      "method": "Карта",
+      "status": "pending",
+      "paid_at": null
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 10,
+    "fields": {
+      "order": 10,
+      "amount": 1282.5,
+      "method": "Карта",
+      "status": "paid",
+      "paid_at": "2026-11-11T10:30:00Z"
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 11,
+    "fields": {
+      "order": 11,
+      "amount": 756.0,
+      "method": "Карта",
+      "status": "pending",
+      "paid_at": null
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 12,
+    "fields": {
+      "order": 12,
+      "amount": 1526.0,
+      "method": "Карта",
+      "status": "paid",
+      "paid_at": "2026-11-13T10:30:00Z"
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 13,
+    "fields": {
+      "order": 13,
+      "amount": 1287.5,
+      "method": "Карта",
+      "status": "pending",
+      "paid_at": null
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 14,
+    "fields": {
+      "order": 14,
+      "amount": 798.3,
+      "method": "Карта",
+      "status": "paid",
+      "paid_at": "2026-11-15T10:30:00Z"
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 15,
+    "fields": {
+      "order": 15,
+      "amount": 1411.2,
+      "method": "Карта",
+      "status": "pending",
+      "paid_at": null
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 16,
+    "fields": {
+      "order": 16,
+      "amount": 1706.25,
+      "method": "Карта",
+      "status": "paid",
+      "paid_at": "2026-11-02T10:30:00Z"
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 17,
+    "fields": {
+      "order": 17,
+      "amount": 1796.25,
+      "method": "Карта",
+      "status": "pending",
+      "paid_at": null
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 18,
+    "fields": {
+      "order": 18,
+      "amount": 642.0,
+      "method": "Карта",
+      "status": "paid",
+      "paid_at": "2026-11-04T10:30:00Z"
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 19,
+    "fields": {
+      "order": 19,
+      "amount": 756.0,
+      "method": "Карта",
+      "status": "pending",
+      "paid_at": null
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 20,
+    "fields": {
+      "order": 20,
+      "amount": 2548.5,
+      "method": "Карта",
+      "status": "paid",
+      "paid_at": "2026-11-06T10:30:00Z"
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 21,
+    "fields": {
+      "order": 21,
+      "amount": 1543.75,
+      "method": "Карта",
+      "status": "pending",
+      "paid_at": null
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 22,
+    "fields": {
+      "order": 22,
+      "amount": 870.75,
+      "method": "Карта",
+      "status": "paid",
+      "paid_at": "2026-11-08T10:30:00Z"
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 23,
+    "fields": {
+      "order": 23,
+      "amount": 756.0,
+      "method": "Карта",
+      "status": "pending",
+      "paid_at": null
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 24,
+    "fields": {
+      "order": 24,
+      "amount": 1494.0,
+      "method": "Карта",
+      "status": "paid",
+      "paid_at": "2026-11-10T10:30:00Z"
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 25,
+    "fields": {
+      "order": 25,
+      "amount": 2167.5,
+      "method": "Карта",
+      "status": "pending",
+      "paid_at": null
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 26,
+    "fields": {
+      "order": 26,
+      "amount": 688.1,
+      "method": "Карта",
+      "status": "paid",
+      "paid_at": "2026-11-12T10:30:00Z"
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 27,
+    "fields": {
+      "order": 27,
+      "amount": 1037.1,
+      "method": "Карта",
+      "status": "pending",
+      "paid_at": null
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 28,
+    "fields": {
+      "order": 28,
+      "amount": 1501.5,
+      "method": "Карта",
+      "status": "paid",
+      "paid_at": "2026-11-14T10:30:00Z"
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 29,
+    "fields": {
+      "order": 29,
+      "amount": 1417.5,
+      "method": "Карта",
+      "status": "pending",
+      "paid_at": null
+    }
+  },
+  {
+    "model": "laundry.payment",
+    "pk": 30,
+    "fields": {
+      "order": 30,
+      "amount": 1080.0,
+      "method": "Карта",
+      "status": "paid",
+      "paid_at": "2026-11-01T10:30:00Z"
+    }
+  }
+]

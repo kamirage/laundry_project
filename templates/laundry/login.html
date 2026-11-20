@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block title %}Вход — ЧИСТО{% endblock %}
+{% block content %}
+<section class="page-section"><div class="container">
+  <div class="page-heading"><h1>Вход</h1><p>Доступ к личным заказам и актам</p></div>
+  <form method="post" class="form-card auth-card">{% csrf_token %}
+    <h2>Вход в личный кабинет</h2>
+    {% if form.non_field_errors %}<div class="form-error">{{ form.non_field_errors }}</div>{% endif %}
+    <div class="form-field"><label for="id_username">Телефон или email</label><input id="id_username" name="username" type="text" placeholder="+7 900 000-00-00" autocomplete="username" required value="{{ form.username.value|default:'' }}">{% for error in form.username.errors %}<small class="field-error">{{ error }}</small>{% endfor %}</div>
+    <div class="form-field"><label for="id_password">Пароль</label><input id="id_password" name="password" type="password" placeholder="Введите пароль" autocomplete="current-password" required></div>
+    <a class="subtle-link" href="#">Не помните пароль? Восстановить доступ</a>
+    <button class="btn btn-primary btn-wide" type="submit">Войти</button>
+    <p class="form-bottom">Нет аккаунта? <a href="{% url 'register' %}">Зарегистрироваться</a></p>
+    {% if next %}<input type="hidden" name="next" value="{{ next }}">{% endif %}
+  </form>
+</div></section>
+{% endblock %}

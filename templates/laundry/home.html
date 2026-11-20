@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+{% block title %}Главная и услуги — ЧИСТО{% endblock %}
+{% block content %}
+<section class="home-section">
+  <div class="container">
+    <div class="page-heading"><h1>Главная и услуги</h1><p>Приём вещей в химчистку и прачечную</p></div>
+    <div class="hero-panel">
+      <div class="hero-copy"><h2>Уход за вещами без лишних хлопот</h2><p>Принимаем одежду, проводим осмотр и согласуем стоимость до начала обработки.</p><a class="btn btn-primary" href="{% url 'create_order' %}">Оформить заказ</a></div>
+      <div class="hero-note"><strong>Приём • Осмотр • Чистка</strong></div>
+    </div>
+    <section class="services-preview" aria-labelledby="services-title">
+      <h2 id="services-title">Наши услуги</h2>
+      <div class="service-grid">
+        {% for service in services|slice:":3" %}
+          <article class="service-card"><h3>{{ service.name }}</h3><p>{{ service.description|default:"Осмотр вещи и согласование стоимости перед обработкой."|truncatechars:125 }}</p></article>
+        {% empty %}
+          <article class="service-card"><h3>Химчистка одежды</h3><p>Осмотр вещи и согласование стоимости перед обработкой.</p></article>
+          <article class="service-card"><h3>Стирка и глажка</h3><p>Осмотр вещи и согласование стоимости перед обработкой.</p></article>
+          <article class="service-card"><h3>Обработка текстиля</h3><p>Осмотр вещи и согласование стоимости перед обработкой.</p></article>
+        {% endfor %}
+      </div>
+    </section>
+  </div>
+</section>
+{% endblock %}

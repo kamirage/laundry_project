@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% block title %}Администратор: осмотр — ЧИСТО{% endblock %}
+{% block content %}
+<section class="page-section"><div class="container">
+  <div class="page-heading"><h1>Администратор: осмотр</h1><p>Рабочее место сотрудника</p></div>
+  <form method="post" class="form-card inspection-card">{% csrf_token %}
+    <h2>Заказ {{ order.number }} — осмотр вещи</h2>
+    <div class="inspection-grid">
+      <div class="form-field"><label>Тип вещи</label><input value="{{ item.garment_type.name }}" readonly></div>
+      <div class="form-field"><label>Материал</label><input value="{{ item.material.name }}" readonly></div>
+      <div class="form-field"><label for="{{ form.defect.id_for_label }}">Дефект</label>{{ form.defect }}{% for error in form.defect.errors %}<small class="field-error">{{ error }}</small>{% endfor %}</div>
+      <div class="form-field"><label for="{{ form.comment.id_for_label }}">Комментарий</label>{{ form.comment }}{% for error in form.comment.errors %}<small class="field-error">{{ error }}</small>{% endfor %}</div>
+      <div class="form-field"><label for="{{ form.estimated_price.id_for_label }}">Стоимость после осмотра, ₽</label>{{ form.estimated_price }}{% for error in form.estimated_price.errors %}<small class="field-error">{{ error }}</small>{% endfor %}</div>
+    </div>
+    <p class="inspection-warning">Передача в обработку закрыта до подтверждения клиентом актуальной версии акта.</p>
+    <div class="actions"><button class="btn btn-primary" type="submit">Сохранить акт</button><a class="btn btn-outline" href="{% url 'order_detail' order.pk %}">Вернуться к заказу</a></div>
+  </form>
+</div></section>
+{% endblock %}
